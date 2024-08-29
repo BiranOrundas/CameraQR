@@ -28,7 +28,7 @@
 
 @keyframes slide {
   0% {top: 0px;}
-  50% {top: 200px;}
+  50% {top: 1200px;}
    100% {top: 0px;}
 }
 body{

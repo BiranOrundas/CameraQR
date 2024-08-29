@@ -21,14 +21,14 @@
   background-repeat: repeat;
   background-size: 25%;
   animation-name: slide;
-  animation-duration: 24s;
+  animation-duration: 14s;
   animation-direction: normal;
   animation-iteration-count: infinite;
 }
 
 @keyframes slide {
   0% {top: 0px;}
-  50% {top: 200px;}
+  50% {top: 50px;}
    100% {top: 0px;}
 }
 body{

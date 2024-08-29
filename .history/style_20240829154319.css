@@ -16,21 +16,10 @@
   width: 100vw;
   margin-left: -10%;
   object-fit: cover; 
-  z-index: -1;
-  opacity: 0.2;
-  background-repeat: repeat;
-  background-size: 25%;
-  animation-name: slide;
-  animation-duration: 24s;
-  animation-direction: normal;
-  animation-iteration-count: infinite;
+  z-index: 0;
+  opacity: 0.5;
 }
 
-@keyframes slide {
-  0% {top: 0px;}
-  50% {top: 200px;}
-   100% {top: 0px;}
-}
 body{
     margin-left:auto ;
     margin-right:auto ;
